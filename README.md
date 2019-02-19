@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+npm add @material-ui/core@1.2.0 @material-ui/icons@1.1.0 react-reveal@1.2.2 react-scroll@1.7.9 react-slick@0.23.1
+
+npm install --save-exact @babel/runtime@7.0.0-beta.55
+https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/62
